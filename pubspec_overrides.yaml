@@ -1,0 +1,9 @@
+dependency_overrides:
+  json_utils:
+    git: https://github.com/enspyrco/json_utils
+  enspyr_lints:
+    git: https://github.com/enspyrco/enspyr_lints
+
+# dependency_overrides:
+#   json_types:
+#     path: ../../utils/json_types
